@@ -1,4 +1,4 @@
-## Hi! My Name is Ricardo L. Garcia 👋
+## Hi! My name is Ricardo L. Garcia 👋
 #### ✨ I do Web, UI/UX, Graphic Design and Front-End Development ✨
 #### Visit my portfolio here: https://constrg.github.io/rgportfolio2024/
 

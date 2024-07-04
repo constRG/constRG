@@ -1,4 +1,4 @@
-# Hi! My Name is Ricardo L. Garcia 👋
+## Hi! My Name is Ricardo L. Garcia 👋
 
 
 <!--

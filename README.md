@@ -1,5 +1,5 @@
 ## Hi! My Name is Ricardo L. Garcia 👋
-# ✨ I do Web, UI/UX, Graphic Design and Front-End Development ✨
+### ✨ I do Web, UI/UX, Graphic Design and Front-End Development ✨
 
 
 <!--

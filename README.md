@@ -3,7 +3,8 @@
 #### Visit my portfolio here: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
 
 ## Tools
-![Uploading figma.svg…]()
+![figma-logo](https://github.com/user-attachments/assets/89d0cded-4e65-4b84-a23a-182bfa75fc06)
+
 
 <!--
 **constrg/constrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

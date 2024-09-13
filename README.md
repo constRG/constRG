@@ -1,4 +1,4 @@
-![figma-logo](https://github.com/user-attachments/assets/bbbe96fd-a4d8-42d4-bc5a-e36a8ec157f6)## Hello! My name is Ricardo L. Garcia 👋
+# Hello! My name is Ricardo L. Garcia 👋
 #### ✨ I have a strong focus on web and app design, UI/UX, graphic design and front-end development ✨
 #### Visit my portfolio here: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
 

@@ -21,7 +21,7 @@
 ![tailwind-logo](https://github.com/user-attachments/assets/b4fa98c5-b1d9-4ba7-ab1f-63e9ebeec400)
 ![vuejs-logo](https://github.com/user-attachments/assets/1fb2249b-3517-4b10-95eb-d4475db14a1d)
 
-## I don't have the superpower to know everything, but I'm willing to learn ✨
+## ✨ I don't have the superpower to know everything, but I'm willing to learn ✨
 
 
 

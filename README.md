@@ -2,7 +2,7 @@
 #### ✨ I have a strong focus on web and app design, UI/UX, graphic design and front-end development ✨
 #### Visit my portfolio here: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
 
-## ✨ What i use: ✨
+## ✨ What am i using? ✨
 ![figma-logo](https://github.com/user-attachments/assets/3ba86d7f-6cef-4f87-88e8-80cd9edbbcf5)
 ![photoshop-logo](https://github.com/user-attachments/assets/00bce473-2f57-4499-8673-7693dcb9a973)
 ![illustrator-logo](https://github.com/user-attachments/assets/4c41b93a-b463-48e0-be41-5fdde96d9542)
@@ -10,6 +10,8 @@
 ![chatgpt-logo](https://github.com/user-attachments/assets/1bf47882-14ef-49d5-808f-3030a77667b3)
 ![vscode-editor-logo](https://github.com/user-attachments/assets/182492b8-b11c-490e-9a50-ab745e9c0568)
 ![git-logo](https://github.com/user-attachments/assets/a197c671-e8de-403e-9c0b-d5815aaf10e3)
+![github-logo](https://github.com/user-attachments/assets/2ed824b6-3687-4425-82ad-2798d37b342e)
+
 
 
 

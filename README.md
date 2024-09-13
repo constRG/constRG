@@ -2,6 +2,8 @@
 #### ✨ I have a strong focus on web and app design, UI/UX, graphic design and front-end development ✨
 #### Visit my portfolio here: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
 
+## Tools
+![Uploading figma.svg…]()
 
 <!--
 **constrg/constrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

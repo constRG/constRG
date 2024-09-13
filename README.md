@@ -3,7 +3,11 @@
 #### Visit my portfolio here: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
 
 ## Tools
-![figma-logo](https://github.com/user-attachments/assets/89d0cded-4e65-4b84-a23a-182bfa75fc06)
+![figma-logo](https://github.com/user-attachments/assets/f88e813c-e867-46ab-9a22-a01ec57a8d69)
+![photoshop-logo](https://github.com/user-attachments/assets/d481bd9a-6864-47c2-8c1d-ac879f7d9e51)
+![Uploading illustrator-logo.png…]()
+
+
 
 
 <!--

@@ -1,8 +1,8 @@
 # Hello! My name is Ricardo L. Garcia 👋
 #### ✨ I have a strong focus on web and app design, UI/UX, graphic design and front-end development ✨
 #### Website: [https://constrg.github.io/rgportfolio2024/](https://rgportfolio2024.netlify.app/)
-Behance: https://www.behance.net/ricardolacadgarcia
-Pinterest: https://www.pinterest.com/ricardolacadgarcia/
+#### Behance: https://www.behance.net/ricardolacadgarcia
+#### Pinterest: https://www.pinterest.com/ricardolacadgarcia/
 
 ## ✨ What am i using? ✨
 ![figma-logo](https://github.com/user-attachments/assets/3ba86d7f-6cef-4f87-88e8-80cd9edbbcf5)
